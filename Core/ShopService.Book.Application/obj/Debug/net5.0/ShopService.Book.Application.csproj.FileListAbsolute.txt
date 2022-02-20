@@ -1,0 +1,17 @@
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\bin\Debug\net5.0\ShopService.Book.Application.deps.json
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\bin\Debug\net5.0\ShopService.Book.Application.dll
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\bin\Debug\net5.0\ref\ShopService.Book.Application.dll
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\bin\Debug\net5.0\ShopService.Book.Application.pdb
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\bin\Debug\net5.0\ShopService.Book.Domain.dll
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\bin\Debug\net5.0\ShopService.Book.Persistance.dll
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\bin\Debug\net5.0\ShopService.Book.Domain.pdb
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\bin\Debug\net5.0\ShopService.Book.Persistance.pdb
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\obj\Debug\net5.0\ShopService.Book.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\obj\Debug\net5.0\ShopService.Book.Application.AssemblyInfoInputs.cache
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\obj\Debug\net5.0\ShopService.Book.Application.AssemblyInfo.cs
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\obj\Debug\net5.0\ShopService.Book.Application.csproj.CoreCompileInputs.cache
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\obj\Debug\net5.0\ShopService.Book.Application.csproj.CopyComplete
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\obj\Debug\net5.0\ShopService.Book.Application.dll
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\obj\Debug\net5.0\ref\ShopService.Book.Application.dll
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\obj\Debug\net5.0\ShopService.Book.Application.pdb
+D:\Users\dario\Documents\.NET\net5\MicroService\ShopService\Book\Core\ShopService.Book.Application\obj\Debug\net5.0\ShopService.Book.Application.csproj.AssemblyReference.cache

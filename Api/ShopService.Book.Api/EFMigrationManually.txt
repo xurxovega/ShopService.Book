@@ -1,0 +1,11 @@
+// To create Files for Migration
+dotnet ef migrations add InitialMigration --project ./Infraestructure/ShopService.Book.Persistance/ShopService.Book.Persistance.csproj --startup-project ./Api/ShopService.Book.Api/ShopService.Book.Api.csproj
+
+// To list Migrations existins on Db
+dotnet ef migrations list --project ./Infraestructure/ShopService.Book.Persistance/ShopService.Book.Persistance.csproj --startup-project ./Api/ShopService.Book.Api/ShopService.Book.Api.csproj
+
+// Update Database with last Migrations created
+dotnet ef database update --project ./Infraestructure/ShopService.Book.Persistance/ShopService.Book.Persistance.csproj --startup-project ./Api/ShopService.Book.Api/ShopService.Book.Api.csproj
+
+// To remove Migration. If it's not work, add label --Force
+dotnet ef migrations remove "nameOfMigrationFile" --project ./Infraestructure/ShopService.Book.Persistance/ShopService.Book.Persistance.csproj --startup-project ./Api/ShopService.Book.Api/ShopService.Book.Api.csproj
